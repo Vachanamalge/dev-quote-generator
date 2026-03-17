@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="quote-card">
-      <h1 className="title">DevQuote Generator</h1>
+      <h1 className="title">Vachana's DevQuote Generator</h1>
       <p className="quote-text">"{currentQuote}"</p>
       
       <button className="quote-button" onClick={generateQuote}>
